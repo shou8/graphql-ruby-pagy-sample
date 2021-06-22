@@ -1,5 +1,5 @@
 module Types
-  class TestsResolver < GraphQL::Schema::Resolver
+  class Tests2Resolver < GraphQL::Schema::Resolver
 
     type Test.collection_type, null: false
 
