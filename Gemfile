@@ -44,3 +44,5 @@ gem 'graphql'
 group :development do
   gem 'graphiql-rails'
 end
+
+gem 'pagy'
